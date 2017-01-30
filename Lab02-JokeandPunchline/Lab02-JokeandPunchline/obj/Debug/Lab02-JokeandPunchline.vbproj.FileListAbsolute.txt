@@ -1,0 +1,11 @@
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab02-JokeandPunchline\Lab02-JokeandPunchline\bin\Debug\Lab02-JokeandPunchline.exe.config
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab02-JokeandPunchline\Lab02-JokeandPunchline\bin\Debug\Lab02-JokeandPunchline.exe
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab02-JokeandPunchline\Lab02-JokeandPunchline\bin\Debug\Lab02-JokeandPunchline.pdb
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab02-JokeandPunchline\Lab02-JokeandPunchline\bin\Debug\Lab02-JokeandPunchline.xml
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab02-JokeandPunchline\Lab02-JokeandPunchline\obj\Debug\Lab02-JokeandPunchline.vbprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab02-JokeandPunchline\Lab02-JokeandPunchline\obj\Debug\Lab02_JokeandPunchline.Form1.resources
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab02-JokeandPunchline\Lab02-JokeandPunchline\obj\Debug\Lab02_JokeandPunchline.Resources.resources
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab02-JokeandPunchline\Lab02-JokeandPunchline\obj\Debug\Lab02-JokeandPunchline.vbproj.GenerateResource.Cache
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab02-JokeandPunchline\Lab02-JokeandPunchline\obj\Debug\Lab02-JokeandPunchline.exe
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab02-JokeandPunchline\Lab02-JokeandPunchline\obj\Debug\Lab02-JokeandPunchline.xml
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab02-JokeandPunchline\Lab02-JokeandPunchline\obj\Debug\Lab02-JokeandPunchline.pdb
