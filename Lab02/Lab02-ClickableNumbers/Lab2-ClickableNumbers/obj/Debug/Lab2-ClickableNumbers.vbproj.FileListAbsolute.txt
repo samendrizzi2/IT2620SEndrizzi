@@ -1,0 +1,22 @@
+c:\users\sam\documents\visual studio 2015\Projects\Lab2-ClickableNumbers\Lab2-ClickableNumbers\bin\Debug\Lab2-ClickableNumbers.exe.config
+c:\users\sam\documents\visual studio 2015\Projects\Lab2-ClickableNumbers\Lab2-ClickableNumbers\bin\Debug\Lab2-ClickableNumbers.exe
+c:\users\sam\documents\visual studio 2015\Projects\Lab2-ClickableNumbers\Lab2-ClickableNumbers\bin\Debug\Lab2-ClickableNumbers.pdb
+c:\users\sam\documents\visual studio 2015\Projects\Lab2-ClickableNumbers\Lab2-ClickableNumbers\bin\Debug\Lab2-ClickableNumbers.xml
+c:\users\sam\documents\visual studio 2015\Projects\Lab2-ClickableNumbers\Lab2-ClickableNumbers\obj\Debug\Lab2-ClickableNumbers.vbprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2015\Projects\Lab2-ClickableNumbers\Lab2-ClickableNumbers\obj\Debug\Lab2_ClickableNumbers.Form1.resources
+c:\users\sam\documents\visual studio 2015\Projects\Lab2-ClickableNumbers\Lab2-ClickableNumbers\obj\Debug\Lab2_ClickableNumbers.Resources.resources
+c:\users\sam\documents\visual studio 2015\Projects\Lab2-ClickableNumbers\Lab2-ClickableNumbers\obj\Debug\Lab2-ClickableNumbers.vbproj.GenerateResource.Cache
+c:\users\sam\documents\visual studio 2015\Projects\Lab2-ClickableNumbers\Lab2-ClickableNumbers\obj\Debug\Lab2-ClickableNumbers.exe
+c:\users\sam\documents\visual studio 2015\Projects\Lab2-ClickableNumbers\Lab2-ClickableNumbers\obj\Debug\Lab2-ClickableNumbers.xml
+c:\users\sam\documents\visual studio 2015\Projects\Lab2-ClickableNumbers\Lab2-ClickableNumbers\obj\Debug\Lab2-ClickableNumbers.pdb
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab2-ClickableNumbers\Lab2-ClickableNumbers\bin\Debug\Lab2-ClickableNumbers.exe.config
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab2-ClickableNumbers\Lab2-ClickableNumbers\obj\Debug\Lab2-ClickableNumbers.exe
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab2-ClickableNumbers\Lab2-ClickableNumbers\obj\Debug\Lab2-ClickableNumbers.xml
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab2-ClickableNumbers\Lab2-ClickableNumbers\obj\Debug\Lab2-ClickableNumbers.pdb
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab2-ClickableNumbers\Lab2-ClickableNumbers\bin\Debug\Lab2-ClickableNumbers.exe
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab2-ClickableNumbers\Lab2-ClickableNumbers\bin\Debug\Lab2-ClickableNumbers.pdb
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab2-ClickableNumbers\Lab2-ClickableNumbers\bin\Debug\Lab2-ClickableNumbers.xml
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab2-ClickableNumbers\Lab2-ClickableNumbers\obj\Debug\Lab2-ClickableNumbers.vbprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab2-ClickableNumbers\Lab2-ClickableNumbers\obj\Debug\Lab2_ClickableNumbers.Form1.resources
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab2-ClickableNumbers\Lab2-ClickableNumbers\obj\Debug\Lab2_ClickableNumbers.Resources.resources
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab2-ClickableNumbers\Lab2-ClickableNumbers\obj\Debug\Lab2-ClickableNumbers.vbproj.GenerateResource.Cache
