@@ -1,0 +1,11 @@
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab06SumNumbers\Lab06SumNumbers\bin\Debug\Lab06SumNumbers.exe.config
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab06SumNumbers\Lab06SumNumbers\bin\Debug\Lab06SumNumbers.exe
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab06SumNumbers\Lab06SumNumbers\bin\Debug\Lab06SumNumbers.pdb
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab06SumNumbers\Lab06SumNumbers\bin\Debug\Lab06SumNumbers.xml
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab06SumNumbers\Lab06SumNumbers\obj\Debug\Lab06SumNumbers.vbprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab06SumNumbers\Lab06SumNumbers\obj\Debug\Lab06SumNumbers.Form1.resources
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab06SumNumbers\Lab06SumNumbers\obj\Debug\Lab06SumNumbers.Resources.resources
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab06SumNumbers\Lab06SumNumbers\obj\Debug\Lab06SumNumbers.vbproj.GenerateResource.Cache
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab06SumNumbers\Lab06SumNumbers\obj\Debug\Lab06SumNumbers.exe
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab06SumNumbers\Lab06SumNumbers\obj\Debug\Lab06SumNumbers.xml
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab06SumNumbers\Lab06SumNumbers\obj\Debug\Lab06SumNumbers.pdb

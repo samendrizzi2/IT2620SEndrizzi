@@ -1,0 +1,11 @@
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab06DistanceCalculator\Lab06DistanceCalculator\bin\Debug\Lab06DistanceCalculator.exe.config
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab06DistanceCalculator\Lab06DistanceCalculator\bin\Debug\Lab06DistanceCalculator.exe
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab06DistanceCalculator\Lab06DistanceCalculator\bin\Debug\Lab06DistanceCalculator.pdb
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab06DistanceCalculator\Lab06DistanceCalculator\bin\Debug\Lab06DistanceCalculator.xml
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab06DistanceCalculator\Lab06DistanceCalculator\obj\Debug\Lab06DistanceCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab06DistanceCalculator\Lab06DistanceCalculator\obj\Debug\Lab06DistanceCalculator.Form1.resources
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab06DistanceCalculator\Lab06DistanceCalculator\obj\Debug\Lab06DistanceCalculator.Resources.resources
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab06DistanceCalculator\Lab06DistanceCalculator\obj\Debug\Lab06DistanceCalculator.vbproj.GenerateResource.Cache
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab06DistanceCalculator\Lab06DistanceCalculator\obj\Debug\Lab06DistanceCalculator.exe
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab06DistanceCalculator\Lab06DistanceCalculator\obj\Debug\Lab06DistanceCalculator.xml
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab06DistanceCalculator\Lab06DistanceCalculator\obj\Debug\Lab06DistanceCalculator.pdb
