@@ -1,0 +1,12 @@
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab09-ConfReg\Lab09-ConfReg\bin\Debug\Lab09-ConfReg.exe.config
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab09-ConfReg\Lab09-ConfReg\bin\Debug\Lab09-ConfReg.exe
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab09-ConfReg\Lab09-ConfReg\bin\Debug\Lab09-ConfReg.pdb
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab09-ConfReg\Lab09-ConfReg\bin\Debug\Lab09-ConfReg.xml
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab09-ConfReg\Lab09-ConfReg\obj\Debug\Lab09-ConfReg.vbprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab09-ConfReg\Lab09-ConfReg\obj\Debug\Lab09_ConfReg.Form1.resources
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab09-ConfReg\Lab09-ConfReg\obj\Debug\Lab09_ConfReg.Form2.resources
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab09-ConfReg\Lab09-ConfReg\obj\Debug\Lab09_ConfReg.Resources.resources
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab09-ConfReg\Lab09-ConfReg\obj\Debug\Lab09-ConfReg.vbproj.GenerateResource.Cache
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab09-ConfReg\Lab09-ConfReg\obj\Debug\Lab09-ConfReg.exe
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab09-ConfReg\Lab09-ConfReg\obj\Debug\Lab09-ConfReg.xml
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab09-ConfReg\Lab09-ConfReg\obj\Debug\Lab09-ConfReg.pdb
