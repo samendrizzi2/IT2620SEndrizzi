@@ -1,0 +1,24 @@
+c:\users\sam\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+c:\users\sam\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+c:\users\sam\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+c:\users\sam\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+c:\users\sam\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+c:\users\sam\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+c:\users\sam\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+c:\users\sam\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+c:\users\sam\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+c:\users\sam\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab10\Lab10-ShoppingCart\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab10\Lab10-ShoppingCart\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab10\Lab10-ShoppingCart\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab10\Lab10-ShoppingCart\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab10\Lab10-ShoppingCart\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab10\Lab10-ShoppingCart\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab10\Lab10-ShoppingCart\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab10\Lab10-ShoppingCart\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab10\Lab10-ShoppingCart\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab10\Lab10-ShoppingCart\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab10\Lab10-ShoppingCart\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab10\Lab10-ShoppingCart\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab10\Lab10-ShoppingCart\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
