@@ -1,0 +1,11 @@
+c:\users\sam\documents\visual studio 2017\Projects\Lab12CreateEmpData\Lab12CreateEmpData\bin\Debug\Lab12CreateEmpData.exe.config
+c:\users\sam\documents\visual studio 2017\Projects\Lab12CreateEmpData\Lab12CreateEmpData\bin\Debug\Lab12CreateEmpData.exe
+c:\users\sam\documents\visual studio 2017\Projects\Lab12CreateEmpData\Lab12CreateEmpData\bin\Debug\Lab12CreateEmpData.pdb
+c:\users\sam\documents\visual studio 2017\Projects\Lab12CreateEmpData\Lab12CreateEmpData\bin\Debug\Lab12CreateEmpData.xml
+c:\users\sam\documents\visual studio 2017\Projects\Lab12CreateEmpData\Lab12CreateEmpData\obj\Debug\Lab12CreateEmpData.vbprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2017\Projects\Lab12CreateEmpData\Lab12CreateEmpData\obj\Debug\Lab12CreateEmpData.Form1.resources
+c:\users\sam\documents\visual studio 2017\Projects\Lab12CreateEmpData\Lab12CreateEmpData\obj\Debug\Lab12CreateEmpData.Resources.resources
+c:\users\sam\documents\visual studio 2017\Projects\Lab12CreateEmpData\Lab12CreateEmpData\obj\Debug\Lab12CreateEmpData.vbproj.GenerateResource.Cache
+c:\users\sam\documents\visual studio 2017\Projects\Lab12CreateEmpData\Lab12CreateEmpData\obj\Debug\Lab12CreateEmpData.exe
+c:\users\sam\documents\visual studio 2017\Projects\Lab12CreateEmpData\Lab12CreateEmpData\obj\Debug\Lab12CreateEmpData.xml
+c:\users\sam\documents\visual studio 2017\Projects\Lab12CreateEmpData\Lab12CreateEmpData\obj\Debug\Lab12CreateEmpData.pdb

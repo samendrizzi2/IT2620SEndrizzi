@@ -1,0 +1,11 @@
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab12\Lab12ReadingEmpData\Lab12ReadingEmpData\obj\Debug\Lab12ReadingEmpData.vbprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab12\Lab12ReadingEmpData\Lab12ReadingEmpData\obj\Debug\Lab12ReadingEmpData.Form1.resources
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab12\Lab12ReadingEmpData\Lab12ReadingEmpData\obj\Debug\Lab12ReadingEmpData.Resources.resources
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab12\Lab12ReadingEmpData\Lab12ReadingEmpData\obj\Debug\Lab12ReadingEmpData.vbproj.GenerateResource.Cache
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab12\Lab12ReadingEmpData\Lab12ReadingEmpData\bin\Debug\Lab12ReadingEmpData.exe.config
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab12\Lab12ReadingEmpData\Lab12ReadingEmpData\bin\Debug\Lab12ReadingEmpData.exe
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab12\Lab12ReadingEmpData\Lab12ReadingEmpData\bin\Debug\Lab12ReadingEmpData.pdb
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab12\Lab12ReadingEmpData\Lab12ReadingEmpData\bin\Debug\Lab12ReadingEmpData.xml
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab12\Lab12ReadingEmpData\Lab12ReadingEmpData\obj\Debug\Lab12ReadingEmpData.exe
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab12\Lab12ReadingEmpData\Lab12ReadingEmpData\obj\Debug\Lab12ReadingEmpData.xml
+C:\Users\Sam\Desktop\IT2620\IT2620SEndrizzi\Lab12\Lab12ReadingEmpData\Lab12ReadingEmpData\obj\Debug\Lab12ReadingEmpData.pdb
